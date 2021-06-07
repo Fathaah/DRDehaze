@@ -1,6 +1,7 @@
 import tensorflow as tf
 import os
 from options import dir
+
 path_label = os.path.join(dir, 'Y' + os.sep)
 
 def create_datagen(files):
