@@ -1,13 +1,15 @@
-# Domain Randomization on Deep Learning Models for Image Dehazing
+## Dataset Generation
 
 ---
 
-By Abdul Fathaah Shamsuddin, Abhijith P,  Krupasankari Ragunathan, Deepak Raja Sekar P M, Praveen Sankaran
+In this project we focused on engineering the data such that it gives the optimal dehazing performance when trained upon. *Unity 2020.2.0f1* was used to generate data, this process was automated using the scripting language C# to produce data that lie in a predefined boundary. 
 
-## overview
+### Files
 
-This repository contains files used to create a domain randomized dehazing dataset in Unity 3D. It also contains a UNET model in which the data was trained on. This work was done as part of final year project for the completion of B.Tech in Electronics and Communication Engineering.
-In this project we use domain randomization to generate a simulated dataset which was used to train a learning based model to give outstanding real-world dehazing performance.
+*  `MasterGenerator` - Brains of this process, randomizes different aspects of the environment to produce data.
+*  `RenderDepth`(Not operational) - Renders a depth map of the scene.
+*  `SpawnGizmos` - In debugging mode gives an overview of the regions of the environment data is going to be generated in.
 
-## Sample Results
+HDRP pipeline's volumetric fog was used during the generation to vary haze.
 
+### Samples
