@@ -13,12 +13,12 @@ In this project we use domain randomization to generate a simulated dataset whic
 
 <p align='center'>
 <img src="figs/train_input.png" height="306px" width='413px'> 
-<img src='figs/1train_our.png' height="306px" width='413px' >
+<img src='figs/train_our.png' height="306px" width='413px' >
 
 </div>
 
 <p align='center'>
-<img src='figs/SOTS_input' height="306px" width='413px' > 
-<img src='figs/SOTS_our' height="306px" width='413px' >
+<img src='figs/SOTS_input.jpg' height="306px" width='413px' > 
+<img src='figs/SOTS_our.jpg' height="306px" width='413px' >
 
 </div>
