@@ -19,7 +19,7 @@ HDRP pipeline's volumetric fog was used during the generation to vary haze.
 </div>
 
 <p align='center'>
-<img src='figs/59_0_0.jpg' height="306px" width='413px'> 
+<img src='figs/59_0_0.png' height="306px" width='413px'> 
 <img src='figs/59.png' height="306px" width='413px' >
 
 </div>
