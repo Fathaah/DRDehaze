@@ -1,7 +1,7 @@
 # Domain Randomization on Deep Learning Models for Image Dehazing
 
 
-By Abdul Fathaah Shamsuddin, Abhijith P,  Krupasankari Ragunathan, Deepak Raja Sekar P M, Praveen Sankaran
+## By Abdul Fathaah Shamsuddin, Abhijith P,  Krupasankari Ragunathan, Deepak Raja Sekar P M, Praveen Sankaran
 ---
 
 
