@@ -30,4 +30,4 @@ The dataset that gave the best results can be found [here](https://www.kaggle.co
 
 ---
 
-For queries contact [Abdul Fathaah](email:abdulfta12@gmail.com).
+For queries contact [abdulfta12@gmail.com](abdulfta12@gmail.com).
