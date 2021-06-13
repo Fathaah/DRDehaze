@@ -27,3 +27,7 @@ The dataset that gave the best results can be found [here](https://www.kaggle.co
 <img src='figs/SOTS_our.jpg' height="306px" width='413px' >
 
 </div>
+
+---
+
+For queries contact [Abdul Fathaah](email:abdulfta12@gmail.com).
