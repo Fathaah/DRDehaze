@@ -1,4 +1,4 @@
-# Domain Randomization on Deep Learning Models for Image Dehazing
+# Domain Randomization on Deep Learning Models for Image Dehazing [NCC - 2021]
 
 
 ## By Abdul Fathaah Shamsuddin, Abhijith P,  Krupasankari Ragunathan, Deepak Raja Sekar P M, Praveen Sankaran
@@ -30,4 +30,5 @@ The dataset that gave the best results can be found [here](https://www.kaggle.co
 
 ---
 
+Paper link - To be updated soon.
 For queries contact [abdulfta12@gmail.com](abdulfta12@gmail.com).
