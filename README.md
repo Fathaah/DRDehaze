@@ -28,7 +28,21 @@ The dataset that gave the best results can be found [here](https://www.kaggle.co
 
 </div>
 
----
+## Citation
 
-Paper link - To be updated soon.
+We request that the dataset be used for research purposes alone and referred to our following work
+```
+@INPROCEEDINGS{Sham2105:Domain,
+AUTHOR="Abdul Fathaah Shamsuddin and Abhijith P and Deepak {Raja Sekar P M} and
+Krupasankari Ragunathan and Praveen Sankaran",
+TITLE="Domain Randomization on Deep Learning Models for Image Dehazing",
+BOOKTITLE="2021 National Conference on Communications (NCC) (NCC 2021)",
+ADDRESS="virtual, India",
+DAYS=26,
+MONTH=jul,
+YEAR=2021
+}
+```
+
+---
 For queries contact [abdulfta12@gmail.com](abdulfta12@gmail.com).
