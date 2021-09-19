@@ -32,16 +32,15 @@ The dataset that gave the best results can be found [here](https://www.kaggle.co
 
 We request that the dataset be used for research purposes alone and referred to our following work
 ```
-@INPROCEEDINGS{Sham2105:Domain,
-AUTHOR="Abdul Fathaah Shamsuddin and Abhijith P and Deepak {Raja Sekar P M} and
-Krupasankari Ragunathan and Praveen Sankaran",
-TITLE="Domain Randomization on Deep Learning Models for Image Dehazing",
-BOOKTITLE="2021 National Conference on Communications (NCC) (NCC 2021)",
-ADDRESS="virtual, India",
-DAYS=26,
-MONTH=jul,
-YEAR=2021
-}
+@INPROCEEDINGS{9530031,
+  author={Shamsuddin, Abdul Fathaah and P, Abhijith and Ragunathan, Krupasankari and M, Deepak Raja Sekar P and Sankaran, Praveen},
+  booktitle={2021 National Conference on Communications (NCC)}, 
+  title={Domain Randomization on Deep Learning Models for Image Dehazing}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/NCC52529.2021.9530031}}
 ```
 
 ---
